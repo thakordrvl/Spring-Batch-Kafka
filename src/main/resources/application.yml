@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: SpringBatch with Kafka Writer
+
+  kafka:
+    bootstrap-servers: localhost:9092
+    template:
+      default-topic: myTopic
+
+  batch:
+    job:
+      names: importUserJob
+      enabled: false
+
+
