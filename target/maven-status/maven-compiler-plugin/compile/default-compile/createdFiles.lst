@@ -1,0 +1,10 @@
+com\example\SpringBatch\SpringBatch_Gamma\Writers\KafkaPersonItemWriter.class
+com\example\SpringBatch\SpringBatch_Gamma\Readers\PersonItemReader$1$1.class
+com\example\SpringBatch\SpringBatch_Gamma\Readers\PersonItemReader$1.class
+com\example\SpringBatch\SpringBatch_Gamma\SpringBatchWithKafkaWriterApplication.class
+com\example\SpringBatch\SpringBatch_Gamma\Processors\PersonItemProcessor.class
+com\example\SpringBatch\SpringBatch_Gamma\Model\Person.class
+com\example\SpringBatch\SpringBatch_Gamma\SpringBatchConfig\BatchConfig.class
+com\example\SpringBatch\SpringBatch_Gamma\KafkaConfig\KafkaConfig.class
+com\example\SpringBatch\SpringBatch_Gamma\Readers\PersonItemReader.class
+com\example\SpringBatch\SpringBatch_Gamma\Readers\PersonItemReader$1$2.class

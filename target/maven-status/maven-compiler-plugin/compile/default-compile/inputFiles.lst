@@ -1,0 +1,7 @@
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\Model\Person.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\Readers\PersonItemReader.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\SpringBatchWithKafkaWriterApplication.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\Writers\KafkaPersonItemWriter.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\SpringBatchConfig\BatchConfig.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\KafkaConfig\KafkaConfig.java
+C:\Users\thako\OneDrive\Documents\COLLEGE\Spring Batch\SpringBatch-Gamma\src\main\java\com\example\SpringBatch\SpringBatch_Gamma\Processors\PersonItemProcessor.java
