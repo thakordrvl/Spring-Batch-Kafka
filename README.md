@@ -1,5 +1,3 @@
-Here’s an expanded version of the README content that provides a bit more detail while still keeping it concise:
-
 ```markdown
 # Spring Batch CSV to Kafka Integration
 
